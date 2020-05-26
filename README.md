@@ -10,5 +10,7 @@ CREATE VIEW TRABAJADOR_LABOR_PRECIO(ID_TRABAJADOR, PRECIO_LABOR_TRABAJADOR, ID_L
 Integrantes:
 
 Juan Esteban Duran
+
 Brayan Escobar
+
 Juan Esteban Camargo
